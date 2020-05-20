@@ -1,0 +1,32 @@
+tema:
+datos generales del covid en Costa Rica
+archivo:
+05_13_CSV_GENERAL.csv
+link:
+http://geovision.uned.ac.cr/oges/#descargas
+
+*****************************************************************
+tema:
+datos generales del covid mundiales
+archivo
+WHO-COVID-19-global-data.csv
+link:
+https://covid19.who.int/
+
+************************************************************************
+tema
+datos generales del covid 19 mundiales con clasificacion de tranmision
+archivo:
+20200513-covid-19-sitrep-114.pdf
+link:
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+
+*************************************************************************************
+tema:
+datos interesantes de sistemas de salud  latino america
+archivo:
+Capacidad America Latina covid-19 - BBC News Mundo.pdf
+link:
+https://www.bbc.com/mundo/noticias-america-latina-51916767
+
+
